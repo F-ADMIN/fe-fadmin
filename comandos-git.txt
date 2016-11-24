@@ -1,0 +1,26 @@
+comandos para git
+
+para clonar un repositorioen interner como en esre caso seria para
+descargar la version web de fadmin
+
+	git clone https://github.com/F-ADMIN/fe-fadmin.git
+
+para añadir los archivos nuevos creados o movidos a la carpeta de 
+git, se deve utilizar el siguinte comando, tanto para agregar de 
+forma individula o varios archivos.
+
+	git add comando-git.txt //se agrega un solo archivo para luego 
+				ser subido
+	
+	git add . //agrega todos los archivos nuevos o agregados a la 
+			carpeta del proyecto git
+
+para verificar cuales seran los archivos que estan listos para ser subidos,
+se utiliza
+
+	git status
+
+para subir los cambio
+
+	git commit 
+
