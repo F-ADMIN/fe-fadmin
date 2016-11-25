@@ -20,7 +20,14 @@ se utiliza
 
 	git status
 
-para subir los cambio
+para subir los cambio a nuestro repositorio local
 
 	git commit 
 
+una vez se ejecute el comando, se abrira una ventana para agregar un
+comentario y describir los cambios 
+
+para subir a github, se debe utilizar el comando de push usando el
+usuario y contraseña de la cuenta de github
+
+	git push 
